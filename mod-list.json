@@ -1,0 +1,196 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    
+    {
+      "name": "Additional-Turret-updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "Advanced-Solar",
+      "enabled": true
+    },
+    
+    {
+      "name": "Advanced-Solar-and-Accumulator",
+      "enabled": false
+    },
+    
+    {
+      "name": "AdvancedSubstation",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-balancer",
+      "enabled": true
+    },
+    
+    {
+      "name": "BeltLiner",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "clock",
+      "enabled": true
+    },
+    
+    {
+      "name": "deadlock-beltboxes-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "Electric Furnaces",
+      "enabled": true
+    },
+    
+    {
+      "name": "ElectricTrain",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    
+    {
+      "name": "FlareStack_Speed",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "KS_Power",
+      "enabled": true
+    },
+    
+    {
+      "name": "Larger stack Size",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "robosubstation",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "TrainSkipFulfilledStation",
+      "enabled": true
+    },
+    
+    {
+      "name": "UltimateBelts",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    
+    {
+      "name": "WaterWell",
+      "enabled": true
+    }
+  ]
+}

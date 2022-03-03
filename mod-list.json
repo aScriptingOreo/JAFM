@@ -24,12 +24,17 @@
     },
     
     {
-      "name": "Advanced-Solar-and-Accumulator",
-      "enabled": false
+      "name": "AdvancedSubstation",
+      "enabled": true
     },
     
     {
-      "name": "AdvancedSubstation",
+      "name": "air-filtering",
+      "enabled": true
+    },
+    
+    {
+      "name": "assembler-pipe-passthrough",
       "enabled": true
     },
     
@@ -40,11 +45,6 @@
     
     {
       "name": "BeltLiner",
-      "enabled": true
-    },
-    
-    {
-      "name": "bobelectronics",
       "enabled": true
     },
     
@@ -70,6 +70,16 @@
     
     {
       "name": "clock",
+      "enabled": true
+    },
+    
+    {
+      "name": "craft-under-mouse",
+      "enabled": true
+    },
+    
+    {
+      "name": "Crafting_Speed_Research",
       "enabled": true
     },
     
@@ -164,12 +174,27 @@
     },
     
     {
+      "name": "reverse-factory",
+      "enabled": true
+    },
+    
+    {
       "name": "robosubstation",
       "enabled": true
     },
     
     {
       "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "ThickerLines",
       "enabled": true
     },
     
